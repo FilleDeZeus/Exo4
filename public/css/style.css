@@ -1,0 +1,41 @@
+/* .grand{
+    z-index: 1;
+} */
+/* .carre{
+    background-position: left;
+    background-color: rgb(12, 12, 12);
+    height: 900px;
+    z-index: 2;
+} */
+/* .parent {
+    width: 700px;
+    height: 590px;
+    background-color: rgb(0, 0, 0)
+    
+} */
+.backwhite{
+	position:relative;
+	background-color: bwhite;
+	height: 85vh;
+	margin-top: 35px;
+    hhh
+
+}
+.grandeimage{
+	position:absolute;
+	background-image: url(../image/decor-banner-with-txt-group-1.jpg.jpg);
+	background-repeat: no-repeat;
+	height: 78%;
+	width: 50%;
+	display: flex;
+	left: 0;
+}
+.backwhite2{
+	position: absolute;
+	background-color: white;
+	top: 15vh; 
+	left: 15%;
+	height: 75vh;
+	width: 120vh ;
+	display: flex;
+}
